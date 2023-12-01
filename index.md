@@ -9,3 +9,7 @@ $ git init
 ```javascript
 const var = 10;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
